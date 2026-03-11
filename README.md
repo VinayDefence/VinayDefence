@@ -1,16 +1,37 @@
 ## Hi there 👋
+# VinayDefence – SOC Analyst Journey
 
-<!--
-**VinayDefence/VinayDefence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello, I'm Vinay.  
+I am learning cybersecurity with a focus on becoming a *SOC Analyst*.  
 
-Here are some ideas to get you started:
+## Certifications
+- Google Cybersecurity Professional Certificate  
+- Preparing for CompTIA Security+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Training Platforms
+- LetsDefend SOC Path  
+- TryHackMe SOC Level 1  
+- Hack The Box SOC Analyst Path  
+
+## Skills
+- Log Analysis  
+- Threat Detection  
+- Incident Investigation  
+- Network Traffic Analysis  
+
+## Security Tools
+- Splunk  
+- Wireshark  
+- Wazuh  
+- VirusTotal  
+
+## Current Focus
+- SOC labs practice  
+- SIEM tools  
+- Portfolio development  
+
+## Goals
+- Complete SOC training paths  
+- Pass CompTIA Security+  
+- Get a SOC internship
